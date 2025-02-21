@@ -6,4 +6,5 @@ the selected data and try and showcase intereting information able to be gleamed
 This is all done using the Python coding language and Jupiter Notebook.
 For my project, I selected a dataset of the current Pokemon Pokedex, which included information on all the released Pokemon from generations 1 to 8.
 
-Kaggle link:  https://www.kaggle.com/code/parkerberke/ppb-final-project
+Kaggle Link:  https://www.kaggle.com/code/parkerberke/ppb-final-project
+Github Link: https://github.com/PBerke4201/writing_sample.git
